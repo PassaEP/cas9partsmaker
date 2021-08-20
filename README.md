@@ -29,4 +29,4 @@ or `python autocutter.py` , you will be prompted for the .dna file and insertion
 
 `--homologylength3p=[total length of 3 prime homology length]`
 
-`--sgrnalength=[total length of 3sgrna]'
+`--sgrnalength=[total length of 3sgrna]`
